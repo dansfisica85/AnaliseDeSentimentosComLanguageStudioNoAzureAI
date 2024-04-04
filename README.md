@@ -25,5 +25,4 @@ Depois da validação anterior, sua tela deve se parecer com esta.
 
 # Segue um vídeo tutorial do processo
 
-
-
+https://www.awesomescreenshot.com/video/26432245?key=bfef64e366a07515a816e68b4f5b5bbc
